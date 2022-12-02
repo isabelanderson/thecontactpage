@@ -54,7 +54,7 @@ table {
 
 
 /* ---------- This is the beginning of my 201 Contact Web Page Project ------------ */
-
+ 
 html, body {
   height: 100%;
   width: 100%;
@@ -87,7 +87,7 @@ html, body {
 }
 
 h1 {
-	
+	font-family: belda-normal, sans-serif;
     font-size: 2em;
     margin: 0px auto 10px auto;
 	color: #fff;
@@ -96,7 +96,8 @@ h1 {
 
 h2 {
 	 /* FONT-FAMILY GOES HERE CHOOSE FROM TYPEKIT OR GOOGLE FONTS */
-	font-size: 1.5em;
+    font-family: belda-normal, sans-serif;
+    font-size: 1.5em;
     line-height: 1.4;
     color: #fff;
     padding: 0px 0px;
@@ -105,7 +106,8 @@ h2 {
 
 p {
 	/* FONT-FAMILY GOES HERE CHOOSE FROM TYPEKIT OR GOOGLE FONTS */
-	font-size: 1.2em;
+	font-family: belda-normal, sans-serif;
+    font-size: 1.2em;
     line-height: 1.6;
     color: #fff;
 }
